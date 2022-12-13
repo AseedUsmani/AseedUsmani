@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @AseedUsmani
 - 👀 I’m interested in Sytem Design, building complex Software with SIMPLE code
+- Languages: Java (favorite), Python, Go
+- Databases / Datastores: MySQL, ElasticSearch, PostgreSQL, MongoDB, Hive
+- Distributed Systems: Kafka, HDFS, Spark
+
 
 
 <!---
